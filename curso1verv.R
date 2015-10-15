@@ -9,4 +9,6 @@ plot(x,y)
 
 plot(x)
 
+plot(y)
+
 
